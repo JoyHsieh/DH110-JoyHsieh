@@ -13,7 +13,7 @@ View the full site here: [TimeSlips](http://timeslips.org)
 #### Background Information
 TimeSlips is an organization with a mission to help seniors to write creative stories. To do this, users can make an account, go to their "Creativity Center", and select a prompt to follow. From there, users can type their story in a text box or upload a photo of a written response. The website also has extensive information on what TimeSlips is, services that they provide, resources, news, and ways to get involved with the organization.
 #### Heuristic Evaluation
-Overall:
+_Overall Evaluation_: <add a summary about the HE here>
 
 
 ## Competitor B: The Life Writer
@@ -22,10 +22,17 @@ View the full site here: [The Life Writer](https://www.thelifewriter.com)
 #### Background Information
 The Life Writer is a website with a mission to helps seniors author an autobiographical memoir. To do this, users can make an account and answer some basic life questions. Based on these responses, The Life Writer will create "chapters" that the users can use as a guide to write their stories and add related photos. When the user is done, the book can be downloaded or printed. This website also feautures a background on The Life Writer, an example book, blog, and testimonials.
 #### Heuristic Evaluation
-Overall:
+_Overall Evaluation_: <add a summary about the HE here>
 
-| chick fil a | Debit | Food          |
-|-------------|-------|---------------|
-| wine (vons) | Debit | Fun           |
-| 7 leaves    | Debit | Boba & Drinks |
-| CAPM extra  | --    | Other         |
+## Credits
+Websites that I went to for information or inspiration!
+
+10 Usability Heuristics for User Interface Design (https://www.nngroup.com/articles/ten-usability-heuristics/)
+
+Severity Ratings for Usability Problems (https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/)
+
+How to conduct a heuristic evaluation (https://www.nngroup.com/articles/how-to-conduct-a-heuristic-evaluation/)
+
+10 tips on how to conduct heuristic evaluation (https://medium.muz.li/10-tips-on-how-to-conduct-a-perfect-heuristic-evaluation-ae5f8f4b3257)
+
+Making School and Weather More Accessible (https://github.com/emdipressi/DH150-DiPressi#ccle-mobile)
