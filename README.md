@@ -6,16 +6,18 @@ As my grandparents have gotten older, I've felt a great desire to capture as man
 
 In this assignment, I will conduct a heuristic evaluation of two websites with goals similar to the ones of this project. The first, TimeSlips, allows seniors to write creative stories. The second, The Life Writer, provides a way for seniors to write a memoir book. The evaluation will discuss each site's adherence to the [10 Usability Heuristics for User Interface Design](https://www.nngroup.com/articles/ten-usability-heuristics/) and provide [Severity Ratings for Usability Problems](https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/) with consideration for the target users, senior citizens.
 
+
 ## Competitor A: TimeSlips
 ![TimeSlips homepage](timeslips-screenshot.png)
 View the full site here: [TimeSlips](http://timeslips.org)
 #### Background Information
-TimeSlips is an organization with a mission to "Bring meaning and purpose into the lives of elders through creative engagement". The main goal is to allow seniors to write creative stories. To do this, users can make an account for free, go to their "Creativity Center", and select a prompt to follow. From there, users can type their story in a text box or upload a photo of a written response. The website also has extensive information on what TimeSlips is, services that they provide, resources, news, and ways to get involved with the organization.
+TimeSlips is an organization with a mission to help seniors to write creative stories. To do this, users can make an account, go to their "Creativity Center", and select a prompt to follow. From there, users can type their story in a text box or upload a photo of a written response. The website also has extensive information on what TimeSlips is, services that they provide, resources, news, and ways to get involved with the organization.
 #### Heuristic Evaluation
+
 
 ## Competitor B: The Life Writer
 ![TheLifeWriter homepage](TheLifeWriter-screenshot.png)
 View the full site here: [The Life Writer](https://www.thelifewriter.com)
 #### Background Information
-The Life Writer 
+The Life Writer is a website with a mission to helps seniors author an autobiographical memoir. To do this, users can make an account and answer some basic life questions. Based on these responses, The Life Writer will create "chapters" that the users can use as a guide to write their stories and add related photos. When the user is done, the book can be downloaded or printed. This website also feautures a background on The Life Writer, an example book, blog, and testimonials.
 #### Heuristic Evaluation
