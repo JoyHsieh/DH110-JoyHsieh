@@ -13,6 +13,7 @@ View the full site here: [TimeSlips](http://timeslips.org)
 #### Background Information
 TimeSlips is an organization with a mission to help seniors to write creative stories. To do this, users can make an account, go to their "Creativity Center", and select a prompt to follow. From there, users can type their story in a text box or upload a photo of a written response. The website also has extensive information on what TimeSlips is, services that they provide, resources, news, and ways to get involved with the organization.
 #### Heuristic Evaluation
+Overall:
 
 
 ## Competitor B: The Life Writer
@@ -21,3 +22,10 @@ View the full site here: [The Life Writer](https://www.thelifewriter.com)
 #### Background Information
 The Life Writer is a website with a mission to helps seniors author an autobiographical memoir. To do this, users can make an account and answer some basic life questions. Based on these responses, The Life Writer will create "chapters" that the users can use as a guide to write their stories and add related photos. When the user is done, the book can be downloaded or printed. This website also feautures a background on The Life Writer, an example book, blog, and testimonials.
 #### Heuristic Evaluation
+Overall:
+
+| chick fil a | Debit | Food          |
+|-------------|-------|---------------|
+| wine (vons) | Debit | Fun           |
+| 7 leaves    | Debit | Boba & Drinks |
+| CAPM extra  | --    | Other         |
