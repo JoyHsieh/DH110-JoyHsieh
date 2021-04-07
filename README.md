@@ -1,6 +1,6 @@
 # Assignment 01: Heuristic Evaluation - Joy Hsieh, DH110
 ## Tentative Title: Senior Stories
-Throughout the years, I've heard tidbits of stories from my grandparents and their siblings. My grandma got into college by going went on a hunger strike to pressure her parents into letting her attend. My grandpa grew up in Taiwan during the martial law period and performed mandatory military service. My great aunt was a single mother and a flight attendant, at a time when not many women supported themselves and their children independently.
+Throughout the years, I've heard tidbits of stories from my grandparents and their siblings. My grandma got into college by going on a hunger strike to pressure her parents into letting her attend. My grandpa grew up in Taiwan during the martial law period and performed mandatory military service. My great aunt was a single mother and a flight attendant, at a time when not many women supported themselves and their children independently.
 
 As my grandparents have gotten older, I've felt a great desire to capture as many stories from their lives as I can so that they may be preserved and retold to future generations of our family. I want to contribute with this UX project by creating a website or app that people like my grandparents can go to and record their life stories.
 
