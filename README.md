@@ -14,7 +14,7 @@ TimeSlips is an organization with a mission to "Bring meaning and purpose into t
 #### Heuristic Evaluation
 
 ## Competitor B: The Life Writer
-![TheLifeWriter homepage]()
+![TheLifeWriter homepage](TheLifeWriter-screenshot.png)
 View the full site here: [The Life Writer](https://www.thelifewriter.com)
 #### Background Information
 The Life Writer 
